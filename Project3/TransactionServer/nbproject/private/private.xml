@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/g9366/Desktop/CS565/Projects/Project02/TransactionServer/nbproject/project.properties</file>
+            <file>file:/C:/Users/g9366/Desktop/CS565/Projects/Project02/TransactionServer/src/transaction/comm/MessageTypes.java</file>
+            <file>file:/C:/Users/g9366/Desktop/CS565/Projects/Project02/TransactionServer/src/transaction/server/transaction/TransactionManager.java</file>
+            <file>file:/C:/Users/g9366/Desktop/CS565/Projects/Project02/TransactionServer/src/transaction/server/account/Account.java</file>
+            <file>file:/C:/Users/g9366/Desktop/CS565/Projects/Project02/TransactionServer/build/built-jar.properties</file>
+            <file>file:/C:/Users/g9366/Desktop/CS565/Projects/Project02/TransactionServer/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/g9366/Desktop/CS565/Projects/Project02/TransactionServer/src/transaction/client/TransactionClient.java</file>
+            <file>file:/C:/Users/g9366/Desktop/CS565/Projects/Project02/TransactionServer/src/utils/PropertyHandler.java</file>
+            <file>file:/C:/Users/g9366/Desktop/CS565/Projects/Project02/TransactionServer/src/transaction/client/TransactionServerProxy.java</file>
+            <file>file:/C:/Users/g9366/Desktop/CS565/Projects/Project02/TransactionServer/config/TransactionServer.properties</file>
+            <file>file:/C:/Users/g9366/Desktop/CS565/Projects/Project02/TransactionServer/src/transaction/server/transaction/Transaction.java</file>
+            <file>file:/C:/Users/g9366/Desktop/CS565/Projects/Project02/TransactionServer/src/transaction/server/TransactionServer.java</file>
+            <file>file:/C:/Users/g9366/Desktop/CS565/Projects/Project02/TransactionServer/config/TransactionClient.properties</file>
+            <file>file:/C:/Users/g9366/Desktop/CS565/Projects/Project02/TransactionServer/src/transaction/comm/Message.java</file>
+            <file>file:/C:/Users/g9366/Desktop/CS565/Projects/Project02/TransactionServer/src/transaction/server/account/AccountManager.java</file>
+        </group>
+    </open-files>
+</project-private>
